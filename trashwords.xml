@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<e107Plugin name="TrashWords" version="1.0" date="2026-05-22" compatibility="2.0" installRequired="false">
+	<category>menu</category>
+	<author name="Billy Smith" url="https://vitalogix.com"/>
+	<summary>ADMIN - Just Click &amp; Drag Bad words to the Trash (Profanity Filter)!</summary>
+	<description>TrashWords allows ADMIN to simply double-click BAD words, drag them to the textbox and save them to the Profanities filter. The Profanities filter must be enabled in Admin~Settings~Preferences~Content Filters. If a word was added by mistake, that is also where ADMIN can go to remove them from the filter.</description>
+	<keywords>
+		<word>Profanity</word>
+		<word>Filter</word>
+		<word>Swear</word>
+	</keywords>
+	<copyright url="https://www.gnu.org/licenses/gpl.txt">Copyright Billy Smith, Vitalogix™, Licensed under GNU GPL</copyright>
+</e107Plugin>
